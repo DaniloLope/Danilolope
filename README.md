@@ -89,7 +89,7 @@ Preparação para estágio em tecnologia
 ## Contato
 <div align="center">
   <a href="mailto:danilofiuza6@gmail.com"> <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2"> </a>
-  <a href="https://www.linkedin.com/in/danilo-lopes-92676329a/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2"> </a>     <a href="#"> <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=8A2BE2"> </a>
+  <a href="https://www.linkedin.com/in/danilo-lopes-92676329a/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2"> </a>     <a href="https://www.instagram.com/danilolopss?igsh=aGFwb25yYTgxNDR4"> <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=8A2BE2"> </a>
 
 <br><br>
 
