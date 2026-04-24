@@ -21,11 +21,11 @@
 <tr>
 <td width="55%">
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e por criar soluções que fazem a diferença.
+Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal, com foco em desenvolvimento de software e soluções web.
 
-Estou em busca de uma oportunidade de estágio para aplicar meus conhecimentos, aprender na prática e crescer junto com uma equipe de tecnologia.
+Tenho interesse em atuar como desenvolvedor, aplicando na prática conhecimentos em Java, banco de dados e desenvolvimento web.
 
-Atualmente estudo e desenvolvo projetos utilizando Java, HTML, CSS, JavaScript, MySQL, Git e GitHub.
+Busco uma oportunidade de estágio para evoluir tecnicamente, ganhar experiência no mercado e contribuir com projetos reais dentro de uma equipe de tecnologia.
 
 </td>
 <td width="45%">
@@ -47,7 +47,6 @@ Atualmente estudo e desenvolvo projetos utilizando Java, HTML, CSS, JavaScript, 
 <img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-<img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 <img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
@@ -71,14 +70,14 @@ Atualmente estudo e desenvolvo projetos utilizando Java, HTML, CSS, JavaScript, 
 
 ```txt
 Desenvolvimento Web
-Java
-Banco de Dados
-Git e GitHub
-Projetos práticos
-Estágio em tecnologia
+Java (POO e aplicações)
+Banco de Dados (MySQL e MongoDB)
+Git e GitHub (versionamento)
+Projetos práticos para portfólio
+Preparação para estágio em tecnologia
 ```
-
 </td> <td width="50%"> <img width="100%" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"> </td> </tr> </table>
+
 
 ## GitHub Stats
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloLope&show_icons=true&theme=midnight-purple&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=000000&border_color=8A2BE2"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloLope&layout=compact&theme=midnight-purple&title_color=8A2BE2&text_color=ffffff&bg_color=000000&border_color=8A2BE2"/> </div>
