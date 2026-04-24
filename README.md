@@ -60,24 +60,6 @@ Busco uma oportunidade de estágio para evoluir tecnicamente, ganhar experiênci
 
 </div>
 
----
-
-## Foco atual
-
-<table>
-<tr>
-<td width="50%">
-
-```txt
-Desenvolvimento Web
-Java (POO e aplicações)
-Banco de Dados (MySQL e MongoDB)
-Git e GitHub (versionamento)
-Projetos práticos para portfólio
-Preparação para estágio em tecnologia
-```
-</td> <td width="50%"> <img width="100%" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"> </td> </tr> </table>
-
 
 ## GitHub Stats
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloLope&show_icons=true&theme=midnight-purple&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=000000&border_color=8A2BE2"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloLope&layout=compact&theme=midnight-purple&title_color=8A2BE2&text_color=ffffff&bg_color=000000&border_color=8A2BE2"/> </div>
